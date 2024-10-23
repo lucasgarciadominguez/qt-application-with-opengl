@@ -1,1 +1,0 @@
-The library assimp  that is in the decompress folder needs to be decompressed in the \Backend\ToolEngine\libraries and \Frontend\ProyectoQt\libraries for working the project
